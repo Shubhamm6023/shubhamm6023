@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on java
+🔭 I’m currently working on full stack web development
 
 
 ## 🌐 Socials:
